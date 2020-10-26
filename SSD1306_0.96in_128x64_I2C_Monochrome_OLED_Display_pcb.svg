@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:xml="http://www.w3.org/XML/1998/namespace"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="77.977px" height="78px"
+	 viewBox="0 0 77.977 78" enable-background="new 0 0 77.977 78" xml:space="preserve">
+<g id="silkscreen">
+	<text id="text4" transform="matrix(1 0 0 1 24.9894 12.7085)" fill="#555555" font-family="'DroidSans'" font-size="3px">GND</text>
+	<text id="text10" transform="matrix(1 0 0 1 32.6851 12.7085)" fill="#555555" font-family="'DroidSans'" font-size="3px">VCC</text>
+	<text id="text16" transform="matrix(1 0 0 1 40.1282 12.7085)" fill="#555555" font-family="'DroidSans'" font-size="3px">SCL</text>
+	<text id="text22" transform="matrix(1 0 0 1 47.0309 12.7085)" fill="#555555" font-family="'DroidSans'" font-size="3px">SDA</text>
+	<line id="line28" fill="none" stroke="#000000" stroke-width="0.75" x1="77.256" y1="0.72" x2="77.256" y2="77.28"/>
+	<line id="line30" fill="none" stroke="#000000" stroke-width="0.75" x1="0.72" y1="0.72" x2="77.256" y2="0.72"/>
+	<line id="line32" fill="none" stroke="#000000" stroke-width="0.75" x1="0.72" y1="0.72" x2="0.72" y2="77.28"/>
+	<line id="line34" fill="none" stroke="#000000" stroke-width="0.75" x1="0.72" y1="77.28" x2="77.256" y2="77.28"/>
+</g>
+<g id="copper1">
+	<g id="copper0">
+		<rect id="square" x="26.056" y="4.303" fill="none" stroke="#F7BD13" stroke-width="1.44" width="4.175" height="4.172"/>
+		<circle id="connector8pin" fill="none" stroke="#F7BD13" stroke-width="1.44" cx="49.748" cy="6.389" r="2.089"/>
+		<circle id="connector7pin" fill="none" stroke="#F7BD13" stroke-width="1.44" cx="42.548" cy="6.39" r="2.088"/>
+		<circle id="connector5pin" fill="none" stroke="#F7BD13" stroke-width="1.44" cx="35.346" cy="6.39" r="2.088"/>
+		<circle id="connector4pin" fill="none" stroke="#F7BD13" stroke-width="1.44" cx="28.143" cy="6.39" r="2.088"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:xml="http://www.w3.org/XML/1998/namespace"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="76.535px"
+	 height="76.917px" viewBox="0 0 76.535 76.917" enable-background="new 0 0 76.535 76.917" xml:space="preserve">
+<g transform="translate(0,0.355)">
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							<g id="breadboard">
+								<path fill="#165C7A" d="M0-0.355v76.917h19.275c0,0,0-2.866,0-4.251s1.417-1.417,1.417-1.417h35.151
+									c0,0,1.417,0.03,1.417,1.417s0,4.251,0,4.251h19.275V-0.355H0z M5.875,0.352c2.739,0,4.946,2.219,4.946,4.961
+									c0,2.743-2.209,4.96-4.946,4.96c-2.74,0-4.975-2.217-4.975-4.961C0.899,2.572,3.133,0.352,5.875,0.352z M5.871,76.039
+									c-2.738,0-4.961-2.22-4.961-4.962c0-2.743,2.222-4.96,4.961-4.96s4.96,2.217,4.96,4.96
+									C10.831,73.82,8.61,76.039,5.871,76.039z M27.468,7.114c-0.995,0-1.798-0.807-1.798-1.8s0.806-1.801,1.798-1.801
+									c0.995,0,1.801,0.809,1.801,1.801C29.269,6.308,28.462,7.114,27.468,7.114z M34.669,7.114c-0.995,0-1.801-0.807-1.801-1.8
+									s0.807-1.801,1.801-1.801c0.992,0,1.798,0.809,1.798,1.801C36.467,6.308,35.661,7.114,34.669,7.114z M41.869,7.113
+									c-0.992,0-1.799-0.806-1.799-1.799s0.807-1.8,1.799-1.8c0.994,0,1.801,0.808,1.801,1.8
+									C43.67,6.308,42.863,7.113,41.869,7.113z M49.068,7.114c-0.993,0-1.799-0.807-1.799-1.8s0.806-1.801,1.799-1.801
+									c0.994,0,1.801,0.809,1.801,1.801C50.869,6.308,50.063,7.114,49.068,7.114z M70.663,76.039c-2.743,0-4.961-2.22-4.961-4.961
+									s2.218-4.961,4.961-4.961c2.737,0,4.961,2.22,4.961,4.961S73.4,76.039,70.663,76.039z M70.659,10.274
+									c-2.74,0-4.946-2.217-4.946-4.96c0-2.741,2.206-4.96,4.946-4.96c2.743,0,4.975,2.218,4.975,4.96
+									C75.634,8.057,73.399,10.274,70.659,10.274z"/>
+								<rect id="rect4903" x="0.567" y="10.7" fill="#3E3D40" width="75.4" height="54.709"/>
+								<rect id="rect4903_1_" x="0.567" y="10.7" width="75.4" height="42.521"/>
+								<rect x="3.401" y="13.535" opacity="0.8" fill="#2E2D30" enable-background="new    " width="69.732" height="36.851"/>
+								<path opacity="0.2" fill="#58585A" enable-background="new    " d="M3.401,50.384V13.535h33.063
+									c8.254,21.904,19.804,36.851,19.804,36.851H3.401V50.384z"/>
+								<path id="path10269" fill="none" stroke="#F7BD13" stroke-width="1.1027" d="M75.482,5.314c0,2.661-2.159,4.818-4.818,4.818
+									c-2.661,0-4.82-2.157-4.82-4.818c0-2.662,2.159-4.818,4.82-4.818C73.323,0.496,75.482,2.654,75.482,5.314z"/>
+								<path id="path10269_2_" fill="none" stroke="#F7BD13" stroke-width="1.1027" d="M10.69,5.314
+									c0,2.661-2.158,4.819-4.818,4.819c-2.662,0-4.82-2.157-4.82-4.819s2.158-4.819,4.82-4.819
+									C8.532,0.495,10.69,2.654,10.69,5.314z"/>
+								<path id="path10269_3_" fill="none" stroke="#F7BD13" stroke-width="1.1027" d="M75.482,71.078
+									c0,2.66-2.159,4.818-4.818,4.818c-2.661,0-4.82-2.156-4.82-4.818s2.159-4.818,4.82-4.818
+									C73.323,66.26,75.482,68.418,75.482,71.078z"/>
+								<path id="path10269_4_" fill="none" stroke="#F7BD13" stroke-width="1.1027" d="M10.69,71.078
+									c0,2.661-2.159,4.818-4.818,4.818c-2.661,0-4.82-2.156-4.82-4.818s2.159-4.818,4.82-4.818
+									C8.531,66.26,10.69,68.418,10.69,71.078z"/>
+								<path id="path10269_1_" display="none" fill="none" stroke="#F7BD13" stroke-width="1.1027" d="M10.69,69.944
+									c0,2.661-2.158,4.819-4.818,4.819c-2.662,0-4.82-2.157-4.82-4.819s2.158-4.818,4.82-4.818
+									C8.532,65.125,10.69,67.283,10.69,69.944z"/>
+								
+									<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="37.9392" y1="1791.9222" x2="71.9552" y2="1791.9222" gradientTransform="matrix(1 0 0 1 -16.679 -1720.3457)">
+									<stop  offset="0" style="stop-color:#CA7C05"/>
+									<stop  offset="0.7895" style="stop-color:#FFC97D"/>
+									<stop  offset="1" style="stop-color:#CE7500"/>
+								</linearGradient>
+								<path fill="url(#SVGID_1_)" d="M53.813,68.027h-31.09c-0.813,0.041-1.463,0.709-1.463,1.533v5.566h34.016V69.56
+									C55.275,68.736,54.627,68.068,53.813,68.027z"/>
+								<path d="M20.093,65.409v0.083c1.429,0,2.584,1.156,2.584,2.583v7.051h31.181v-7.051c0-1.427,1.156-2.583,2.584-2.583v-0.083
+									H20.093z"/>
+								<rect x="20.093" y="53.221" fill="#292929" width="36.349" height="12.188"/>
+								
+									<rect id="rect4903_2_" x="0.567" y="53.22" opacity="0.8" fill="#1A171B" enable-background="new    " width="75.4" height="2.735"/>
+								<g transform="matrix(1 0 0 1 24.8096 10.1721)">
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														<text transform="matrix(1 0 0 1 0.0309 0)" fill="#FFFFFF" font-family="'DroidSans'" font-size="2.5px">GND</text>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g transform="matrix(1 0 0 1 32.2183 10.1721)">
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														<text transform="matrix(1 0 0 1 0.2319 0)" fill="#FFFFFF" font-family="'DroidSans'" font-size="2.5px">VCC</text>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g transform="matrix(1 0 0 1 39.7129 10.1721)">
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														<text transform="matrix(1 0 0 1 0.1399 0)" fill="#FFFFFF" font-family="'DroidSans'" font-size="2.5px">SCL</text>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g transform="matrix(1 0 0 1 46.7754 10.1721)">
+									<g>
+										<g>
+											<g>
+												<g>
+													<g>
+														<text transform="matrix(1 0 0 1 0.0303 0)" fill="#FFFFFF" font-family="'DroidSans'" font-size="2.5px">SDA</text>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+								<circle id="connector8pin" fill="none" stroke="#F7BD13" stroke-width="1.1027" cx="49.066" cy="5.314" r="1.98"/>
+								<circle id="connector7pin" fill="none" stroke="#F7BD13" stroke-width="1.1027" cx="41.869" cy="5.314" r="1.98"/>
+								<circle id="connector5pin" fill="none" stroke="#F7BD13" stroke-width="1.1027" cx="34.669" cy="5.314" r="1.98"/>
+								<circle id="connector4pin" fill="none" stroke="#F7BD13" stroke-width="1.1027" cx="27.469" cy="5.313" r="1.979"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
